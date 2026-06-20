@@ -76,5 +76,6 @@ sentiment-analyser/
 - [ ] Deploy to Streamlit Cloud (free hosting)
 
 ---
+Live app: [https://sentiment-analyser-u9cslhencrfoebehmzfovp.streamlit.app/]
 
 *Made by Aleesha Binoy — BCA Data Science & AI*

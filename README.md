@@ -77,4 +77,4 @@ sentiment-analyser/
 
 ---
 
-*Made by [Your Name] — BCA Data Science & AI*
+*Made by Aleesha Binoy — BCA Data Science & AI*
